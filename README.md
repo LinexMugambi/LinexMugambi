@@ -1,39 +1,40 @@
 ### hey there 
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.instagram.com/">
+  <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://discord.gg">
+  <img align="left" alt=" Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/">
+  <img align="left" alt=" Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/linex-mugambi/">
+  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+ -->
 <br />
 
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hello, I'm Linex Mugambi, a passionate self-taught full stack web developer and freelance software engineer hailing from Kenya. I have a strong drive for turning imaginative ideas into tangible realities with meticulously crafted interfaces. When it comes to my work, I hold a deep commitment to delivering exceptional user experiences, robust architecture, and high-quality code.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+One of my greatest sources of inspiration and growth is the open-source community. As an avid enthusiast and dedicated maintainer, I have had the privilege of learning invaluable lessons from collaborating and sharing knowledge with talented developers worldwide. I firmly believe in the power of open-source in fostering innovation and pushing the boundaries of what is possible.
+
+Continuously honing my skills and staying at the forefront of industry trends is a top priority for me. I embrace the ever-evolving nature of software development and seize opportunities to expand my expertise. By staying curious, embracing challenges, and embracing new technologies, I strive to deliver cutting-edge solutions that leave a lasting impact.
+
+I am always open to exciting collaborations and engaging in meaningful projects. If you require any assistance or have inquiries related to web development or software engineering, please don't hesitate to reach out. Let's join forces and bring your ideas to life with excellence and precision.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/LinexMugambi/LinexMugambi/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 any freelance work? do reach, [email](linexmugambi254@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
@@ -43,18 +44,15 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   9 hrs 54 mins   █████████████████████▒░░░   85.57 %
-JSON         57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
-HTML         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-SCSS         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+JavaScript    19 hrs 54 mins        █████████████████████▒░░░   50.00 %
+React         8 hrs 57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   25.00 %
+Ruby          7 hrs 20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   15.00 %
+CSS           5 hrs 10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   5.00 %
+HTML          4 hrs 8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   5.00 %
 ```
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
@@ -67,7 +65,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LinexMugambi&show_icons=true&theme=gotham" alt="LinexMugambi" />
 
 
 
