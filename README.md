@@ -16,8 +16,6 @@
  -->
 <br />
 
-Sure, here's an improved version:
-
 Hello, I'm Linex Mugambi, a full stack web developer and freelance software engineer. My passion lies in transforming imaginative ideas into tangible realities with meticulously crafted interfaces. I am committed to delivering exceptional user experiences, building robust architecture, and writing high-quality code.
 
 The open-source community has been a profound source of inspiration and growth for me. As an enthusiastic contributor and dedicated maintainer, I've had the privilege of collaborating with talented developers worldwide, gaining invaluable knowledge along the way. I firmly believe in the power of open-source to foster innovation and push the boundaries of what's possible.
