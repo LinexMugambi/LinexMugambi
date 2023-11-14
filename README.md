@@ -1,20 +1,4 @@
 ### Hey, y'all!
-<a href="https://www.instagram.com/">
-  <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg">
-  <img align="left" alt=" Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/">
-  <img align="left" alt=" Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/linex-mugambi/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
- -->
-<br />
 
 Hello, I'm Linex Mugambi, a full stack web developer and freelance software engineer. My passion lies in transforming imaginative ideas into tangible realities with meticulously crafted interfaces. I am committed to delivering exceptional user experiences, building robust architecture, and writing high-quality code.
 
