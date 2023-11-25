@@ -13,7 +13,6 @@ I'm always open to exciting collaborations and engaging in meaningful projects. 
   
 - 💼 any freelance work? do reach, [email](linexmugambi254@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
-![Linex's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -49,7 +48,7 @@ HTML          4 hrs 8 mins          ▒░░░░░░░░░░░░░�
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LinexMugambi&show_icons=true&theme=gotham" alt="LinexMugambi" />
+![Linex's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinexMugambi&show_icons=true&theme=transparent)
 
 
 
