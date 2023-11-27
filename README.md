@@ -51,8 +51,7 @@ HTML          4 hrs 8 mins          ▒░░░░░░░░░░░░░�
 📈 my github stats
 
 
-![Linex's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinexMugambi&show_icons=true&theme=transparent)
-
+[![LinexMugambi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinexMugambi&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinexMugambi&theme=buefy&layout=compact" />
 
 
