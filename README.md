@@ -37,18 +37,22 @@ HTML          4 hrs 8 mins          ▒░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-🚧 **my todoist stats:**
+🚧 **my todolist stats:**
 <!-- TODO-IST:START -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LinexMugambi&theme=dark&hide_current_streak=true)](https://git.io/streak-stats)
+
 🏆  7,995 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
+⏳  Longest streak is 215 days
 <!-- TODO-IST:END -->
 
 
 📈 my github stats
 
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LinexMugambi&show_icons=true&theme=gotham" alt="LinexMugambi" />
+
+![Linex's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinexMugambi&show_icons=true&theme=transparent)
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinexMugambi&theme=buefy&layout=compact" />
 
 
