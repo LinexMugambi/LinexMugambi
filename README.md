@@ -48,7 +48,7 @@ HTML          4 hrs 8 mins          ▒░░░░░░░░░░░░░�
 
 📈 my github stats
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LinexMugambi&theme=buefy&show_icons=true" />
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LinexMugambi&show_icons=true&theme=gotham" alt="LinexMugambi" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinexMugambi&theme=buefy&layout=compact" />
 
 
