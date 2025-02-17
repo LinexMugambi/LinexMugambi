@@ -1,15 +1,12 @@
 # Linex Mugambi
-### Full Stack Developer & Freelance Software Engineer
-
+Full Stack Developer & Freelance Software Engineer
 <div align="left">
   <p>
     I'm a passionate full stack developer dedicated to transforming imaginative ideas into tangible realities through meticulously crafted interfaces. My commitment lies in delivering exceptional user experiences, building robust architecture, and writing high-quality code.
   </p>
-
   <p>
     The open-source community has been a profound source of inspiration and growth for me. As an enthusiastic contributor and dedicated maintainer, I've had the privilege of collaborating with talented developers worldwide, gaining invaluable knowledge along the way. I firmly believe in the power of open-source to foster innovation and push the boundaries of what's possible.
   </p>
-
   <img align="right" alt="Coding GIF" src="https://github.com/LinexMugambi/LinexMugambi/blob/master/code.gif?raw=true" width="500" height="320" />
 </div>
 
