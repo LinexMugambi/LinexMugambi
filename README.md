@@ -14,9 +14,10 @@
 </div>
 
 ## 🔍 About Me
-- 🚀 Continuously exploring new technologies
-- 💼 Open for freelance opportunities: [Email me](mailto:linexmugambi254@gmail.com)
-- 💬 Feel free to ask me about anything - happy to help!
+🚀 Continuously exploring new technologies
+💼 Open for freelance opportunities: Email me
+💬 Feel free to ask me about anything - happy to help!
+🌱 Currently exploring AI/ML, Web3, and Generative AI integration in web applications
 
 ## 🛠️ Technologies & Tools
 <div>
