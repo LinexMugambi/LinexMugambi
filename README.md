@@ -12,7 +12,7 @@ Full Stack Developer & Freelance Software Engineer
 
 ## 🔍 About Me
 - 🚀 Continuously exploring new technologies
-- 💼 Open for freelance opportunities: Email me
+- 💼 Open for freelance opportunities:  Email me
 - 💬 Feel free to ask me about anything - happy to help!
 - 🌱 Currently exploring AI/ML, Web3, and Generative AI integration in web applications
 
